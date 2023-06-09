@@ -1,0 +1,27 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+    background-color: azure;
+    height: 200px;
+}
+
+.mytitle {
+    color: blueviolet;
+    font-size: larger;
+}
+
+.webBody {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+    background-color: darkgray;
+}
+
+#btn {
+    background-color: blue;
+    border-radius: 5px;
+    padding: 10px;
+    color: brown;
+}
